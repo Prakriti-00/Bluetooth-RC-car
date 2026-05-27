@@ -2,6 +2,14 @@
 
 A Bluetooth-controlled 2-wheel RC car built using Arduino UNO, HC05 Bluetooth module and L298N motor driver.
 
+## Demo
+
+### Project Image
+![RC Car](IMG_0545.JPG)
+
+### Demo Video
+[Watch Demo Video](demo-video.mp4)
+
 ## Overview
 
 This project is a battery-powered Bluetooth RC car capable of forward, backward, left and right movement using a smartphone controller.
